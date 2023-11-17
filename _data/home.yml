@@ -12,6 +12,7 @@ project_entries:
   - title: Example 1
     url: overview-post
     desc: This is an example project
+    highlight: FIRST
 
   - title: Example 2
     url: overview-post
@@ -24,12 +25,10 @@ project_entries:
   - title: Example 4
     url: overview-post
     desc: This is an example project
-    highlight: WIP
 
   - title: Example 5
     url: overview-post
     desc: This is an example project
-    highlight: WIP
 
   - title: Example 6
     url: overview-post
